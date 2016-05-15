@@ -1,5 +1,3 @@
-<snippet>
-  <content>
 ## Eurovision Song Contest ESC Hack
 This is the "hack" from the Eurovision song contest half time show.
 The joke was that the escape key was the eurovision song contest button and it played the eurovision theme every time you pressed it.
@@ -14,6 +12,3 @@ You can view the source in ESChack.ahk with your regular txt viewer.
 
 ## Why?
 Because i am lame.
-</content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
