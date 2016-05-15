@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+  <content>
+Eurovision Song Contest ESC Hack
 This is the "hack" from the Eurovision song contest half time show.
 The joke was that the escape key was the eurovision song contest button and it played the eurovision theme every time you pressed it.
 As i have a very low standard for jokes and puns i made an auto hot key script for this exact purpose.
@@ -14,6 +14,6 @@ You can view the source in ESChack.ahk with your regular txt viewer.
 
 ## Why?
 Because i am lame.
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
